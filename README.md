@@ -2,8 +2,8 @@
 # Programação Avançada
 
 ### Discentes:
- ### Claudiano Leonardo
- ### Victor Gomes
+ ### * Claudiano Leonardo
+ ### * Victor Gomes
 
  :file_folder: 
   * [ListaPonteiros]()
