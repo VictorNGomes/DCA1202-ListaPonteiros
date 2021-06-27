@@ -12,7 +12,7 @@ int main(){
     int x = *p - *q;
     printf("%d\n",x); //  3 - 5 = -2
 
-    printf("%d\n",**&p); //& = 3 *& se cancelam
+    printf("%d\n",**&p); //& = 3 *& referencia e **& referencia novamente 
 
 
 
